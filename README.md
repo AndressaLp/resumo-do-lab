@@ -24,3 +24,33 @@ A atividade teve como foco consolidar o entendimento sobre criação, configura�
 * Criar e gerenciar máquinas virtuais no **Microsoft Azure** de forma prática e segura.
 * Entender a importância da configuração correta de rede e segurança.
 * Utilizar o **portal do Azure** para visualizar e administrar recursos.
+
+# Desafio: Modelos de Serviço em Nuvem — IaaS, PaaS e SaaS
+
+## Introdução
+
+Este repositório foi criado para documentar o desafio proposto pela DIO sobre os **modelos de serviço em computação em nuvem**.
+O objetivo foi compreender as diferenças entre **IaaS (Infraestrutura como Serviço)**, **PaaS (Plataforma como Serviço)** e **SaaS (Software como Serviço)**, além de identificar suas aplicações práticas no contexto da tecnologia em nuvem.
+
+## Desenvolvimento
+
+* **IaaS (Infrastructure as a Service):**
+  Fornece recursos de infraestrutura virtualizados, como servidores, redes e armazenamento.
+  O usuário tem maior controle sobre o ambiente, sendo responsável pela instalação e manutenção do sistema operacional e aplicações.
+  *Exemplo:* Máquinas virtuais no Microsoft Azure.
+
+* **PaaS (Platform as a Service):**
+  Oferece um ambiente completo para desenvolvimento e implantação de aplicações, sem necessidade de gerenciar a infraestrutura.
+  O provedor cuida dos servidores e do sistema operacional, enquanto o usuário foca apenas no desenvolvimento do software.
+  *Exemplo:* Azure App Service.
+
+* **SaaS (Software as a Service):**
+  Disponibiliza aplicações prontas, acessadas pela internet, sem necessidade de instalação local.
+  Todo o gerenciamento é feito pelo provedor, permitindo ao usuário apenas utilizar o serviço.
+  *Exemplo:* Microsoft 365.
+
+## Aprendizados
+
+* Diferenciar claramente os níveis de serviço em nuvem e suas responsabilidades.
+* Reconhecer os tipos de aplicação ideais para cada modelo.
+* Entender como esses serviços se complementam dentro do ecossistema de computação em nuvem.
